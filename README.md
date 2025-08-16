@@ -1,5 +1,6 @@
 # Asus-Notebook-R541U-Hackintosh
 
+Made With OpCore-Simplified
 
 # Specification:
 
@@ -29,12 +30,14 @@ Im Incuding drivers for usb tethering
 ## IMPORTANT!!!
 MAP YOUR USB PORTS WITH:
 USBTOOLBOX
+After you do it you will get: USBMAP.kext
 drop the kext into kexts
 after that open propertree
 open config.plist
 crtl+r on keyboard
 select oc folder
 click crtl+s
+DONE
 
 
 # BIOS Settings
@@ -72,4 +75,5 @@ Before the setting, load default settings
 - [Acidanthera](https://github.com/acidanthera) for OpenCore Bootloader
 - [Apple](https://apple.com) for macOS
 - [Dortania](https://github.com/dortania) for OpenCore Guides
+- [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) Made Efi
 - i stole readme from [SASA-Tech](https://github.com/SASA-Tech/Asus-VivoBook-R541U-Hackintosh/tree/main)
