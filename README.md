@@ -65,8 +65,8 @@ Before the setting, load default settings
 - [x] Realtek RTL810xE
 - [x] NVRAM
 - [x] Boot Windows By OpenCore
+- [x] SD Card Reader (works)
 - [ ] NVIDIA® GeForce® 920M
-- [ ] SD Card Reader (didint test)
 - [ ] WiFi + Bluetooth (you can replace the card with a compatible one recomended AzureWave AW-CE123H)
 
 
