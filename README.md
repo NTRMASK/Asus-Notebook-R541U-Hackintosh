@@ -22,22 +22,34 @@ Made With OpCore-Simplified
 ## Read:
 THIS IS ONLY FOR BIG SUR!
 
+## TO DO aka THINGS THAT SHIT ITSELF:
+- [ ] Try and fix sleep Somehow (Its hackintosh ofc its an error)  
+- [ ] Fixing Random Freezes While watching yt  
+- [ ] Touchpad randomly shits itself and randomly starts working again  
+
+
 
 ## NOTES:
-Im Incuding drivers for usb tethering
+Im Incuding drivers for usb tethering  
+also will add 2nd efi with drivers for AzureWave AW-CE123H  
+Will be marked as release 1.0.1
 
+## IMPORTANT!!
 
-## IMPORTANT!!!
-MAP YOUR USB PORTS WITH:
-USBTOOLBOX
-After you do it you will get: USBMAP.kext
-drop the kext into kexts
-after that open propertree
-open config.plist
-crtl+r on keyboard
-select oc folder
-click crtl+s
-DONE
+  Map your USB ports using USBToolBox.
+
+After mapping, you will get a file named: USBMap.kext.
+
+Copy USBMap.kext into your Kexts folder.
+
+Open ProperTree and then:
+
+- Open your config.plist
+- Press Ctrl + R to OC Snapshot
+- Select your OC folder
+- Press Ctrl + S to save the changes
+
+Done!
 
 
 # BIOS Settings
@@ -71,7 +83,8 @@ Before the setting, load default settings
 
 
 ## Credits
-
+**Found a solution to the TODO list?**  
+Feel free to contact me at: [gkkoxx2.gk@gmail.com](mailto:gkkoxx2.gk@gmail.com)
 - [Acidanthera](https://github.com/acidanthera) for OpenCore Bootloader
 - [Apple](https://apple.com) for macOS
 - [Dortania](https://github.com/dortania) for OpenCore Guides
