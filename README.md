@@ -10,7 +10,7 @@ Made With OpCore-Simplified
 | CPU              | Intel Core i3 6006U                    | 
 | iGPU             | Intel® HD Graphics 520                 |
 | Audio            | Realtek ALC256                         |
-| LAN              | Realtek RTL810xE                       |
+| LAN              | Realtek RTL8402                        |
 | RAM              | 4 GB DDR4 2133 Mhz or more depends on your pc|
 | SSD              | your model                             |
 | SMBIOS           | MacBookPro13,1                         |
