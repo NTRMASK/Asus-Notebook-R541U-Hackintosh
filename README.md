@@ -37,7 +37,7 @@ Will be marked as release 1.0.1
 
 ## IMPORTANT!!
 
-  Map your USB ports using USBToolBox.
+1.  Map your USB ports using USBToolBox.
 
 After mapping, you will get a file named: USBMap.kext.
 
@@ -50,12 +50,23 @@ Open ProperTree and then:
 - Select your OC folder
 - Press Ctrl + S to save the changes
 
-Done!
+2. GenSMBIOS
+
+You Need to generate serial rom uuid etc
+
+Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate these things  
+  1. Select your plist  
+  2. Generate SMBIOS Number should be MacBookPro13,1
+  3. Generate the Rom
+  4. Generate The UUID
+  5. Quit
+Done! Now You can Boot Into The Installer
 
 
 # BIOS Settings
 
 Before the setting, load default settings
+Also Ver 310 is required
 
 ## Enable:
 - Intel Virtualizzation Technology
