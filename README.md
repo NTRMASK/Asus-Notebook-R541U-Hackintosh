@@ -20,7 +20,8 @@ Made With OpCore-Simplified
 
 
 ## Read:
-THIS IS ONLY FOR BIG SUR!
+I Only tested this efi with Big Sur
+Using Monterey, Ventura Is Not Recommended
 
 ## TO DO aka THINGS THAT SHIT ITSELF:
 - [ ] Try and fix sleep Somehow (Its hackintosh ofc its an error)  
@@ -78,6 +79,7 @@ Before the setting, load default settings
 - [x] NVRAM
 - [x] Boot Windows By OpenCore
 - [x] SD Card Reader (works)
+- [x] Top Row Keys (Brightness,volume etc.)
 - [ ] NVIDIA® GeForce® 920M
 - [ ] WiFi + Bluetooth (you can replace the card with a compatible one recomended AzureWave AW-CE123H)
 
